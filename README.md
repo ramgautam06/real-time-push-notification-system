@@ -7,8 +7,7 @@ A production-ready real-time notification delivery system built with:
 - **Redis** (channel layer)
 - **Docker** (for infrastructure)
 
-## 🧠 Purpose
-
+## Goal 
 This system demonstrates an architecture that enables:
 - Real-time WebSocket push to connected clients
 - Decoupled, scalable event processing via Kafka
